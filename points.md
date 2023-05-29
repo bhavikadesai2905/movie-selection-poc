@@ -1,0 +1,7 @@
+- created reusable Movie component
+- implmented redux to handle state in multiple components
+- change some style to view side by side i.e, right-movie-container and left-movie-container
+- added media query for mobile reponsive
+- created dispatch action functions to add, remove and search functionality
+- added types and interfaces in components and reducers slices
+- added hook.ts for dispatch and selector hooks and have types there
